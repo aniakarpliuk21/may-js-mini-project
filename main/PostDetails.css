@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-color: #420442;
+}
+.post{
+    background-color: #d567b3;
+    color: #420442;
+    text-align: center;
+    width: 100vw;
+    margin-bottom: 1vh;
+}
+.comments{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+.comment{
+    background-color: #d567b3;
+    border: 1px solid #420442;
+    border-radius: 5px;
+    color:#420442;
+    text-align: center;
+    margin: 0.1vw;
+    width: 24.6vw;
+}
